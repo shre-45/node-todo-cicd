@@ -4,4 +4,4 @@ services:
   web:
     image: shreshtaanugu/node-app:latest
     ports:
-      - "5000:5000"
+      - "8000:8000"
